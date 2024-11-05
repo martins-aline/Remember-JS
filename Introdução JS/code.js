@@ -1,4 +1,4 @@
- alert("Arquivo externo");
+ /* alert("Arquivo externo");
 document.write("Hello Word");
 console.log("whats it's?");
 prompt("Qual seu nome?", "Digite aqui");
@@ -43,3 +43,34 @@ var y = 3;
     } alert ("False"); 
 
 
+    var x = 0;
+    x = x+3;
+    ++x;
+    x++;
+    if (x < 3) {
+      x+=3;
+    } else if (x < 5) {
+      x+=2;    
+    } else {
+      x+=1;    
+    }console.log("Valor de x:" + x); 
+
+    //Estruturas de repetição
+
+    //Laço For
+
+    //Sintaxe: 
+
+    for { ([inicialização]; [condição]; [expressão final];) 
+     
+      declaração;
+    
+    } 
+    
+      for (let i = 0; i < 5; i++)  {
+        document.write(i+ "</br>");
+        
+      } */
+
+        
+ 
